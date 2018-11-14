@@ -1,4 +1,4 @@
 # css-grid
 Basic css grid
 
-Thanks to Andrij Leviv
+Thanks to Andrii Leviv
